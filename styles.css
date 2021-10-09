@@ -1,0 +1,78 @@
+body{
+  background-color: #6D9886;
+  text-align: center;
+}
+/* .mountain-img {
+  width: 40%;
+  height: 40%;
+} */
+.top-cloud{
+  position: relative;
+  left: 300px;
+  top : 50px;
+}
+
+.bottom-cloud{
+  position: relative;
+  right : 600px;
+  bottom : 350px;
+}
+.mountain-img{
+  position: relative;
+  margin: auto;
+  left : 100px;
+}
+
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 400%;
+  font-style: italic;
+  font-weight: bold;
+  color: #091353;
+}
+
+h2{
+  font-family: cursive;
+  font-size: 200%;
+  color: #1C0C5B
+}
+
+h3{
+  font-family: cursive;
+  color: #212121;
+}
+h4{
+  font-family: cursive;
+}
+p{
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+  font-weight: bold;
+}
+
+.top{
+  padding-bottom: 50px;
+}
+.second{
+  padding: 50px;
+  padding-top: 100px;
+}
+.skills{
+  padding: 50px;
+}
+.skill-sub{
+  padding: 50px;
+}
+.contact{
+  padding: 50px;
+  padding-top: 0;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 7px;
+  border-color: #CEE5D0;
+  width: 4%;
+  border-spacing: 2px;
+}
